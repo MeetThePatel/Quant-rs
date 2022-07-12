@@ -1,0 +1,11 @@
+[package]
+name = "quant-rs"
+authors = ["Meet Patel"]
+version = "0.0.1"
+edition = "2021"
+description = "Quantitative finance toolkit."
+readme = "README.md"
+homepage = "https://github.com/MeetThePatel/Quant-rs"
+repository = "https://github.com/MeetThePatel/Quant-rs"
+
+[dependencies]
